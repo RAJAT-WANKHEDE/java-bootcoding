@@ -1,5 +1,6 @@
 package com.bootcoding.java.oops;
 
+
 import java.util.Random;
 
 public class Student {
